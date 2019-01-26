@@ -1,5 +1,5 @@
 {
-  "name": "discourse-category-sidebars",
+  "name": "discourse-category-top-article",
   "license_url": "https://github.com/awesomerobot/discourse-category-sidebars/blob/master/LICENSE",
   "about_url": "https://github.com/awesomerobot/discourse-category-sidebars/blob/master/README.md",
   "component": true,
